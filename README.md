@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://snek.fly.dev/
+https://emanuel-skrenkovic.github.io/snek/
 <!--
 **eskrenkovic/eskrenkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
